@@ -72,7 +72,6 @@ I'm a **Cairo-based cybersecurity enthusiast and full-stack software engineer** 
 
 <div align="center">
 
-*If the stats below fail to load, GitHub's API is currently experiencing high traffic.*
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zyad256&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
