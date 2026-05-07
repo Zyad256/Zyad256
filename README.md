@@ -57,23 +57,23 @@ Git • Docker • VirtualBox • Arduino • CI/CD Pipelines
 ## 🚀 Featured Projects
 
 ### 📚 Trivia & Educational Apps
-- Flutter-based learning apps with modern UI
-- QR / OCR scanning via computer vision
+- Flutter apps with modern UI
+- QR / OCR scanning using computer vision
 - Firebase backend + CI/CD automation
 
 ### 🔍 Penetration Testing Labs
 - Ethical hacking simulations
-- Web app vulnerability testing (OWASP-based)
-- Network security analysis using real tools
+- Web vulnerability testing (OWASP methodology)
+- Network security analysis with real tools
 
 ### 🌐 Secure Web Applications
-- React + TailwindCSS frontend systems
-- Secure PHP backend architecture
-- Authentication + input validation + API security
+- React + TailwindCSS interfaces
+- Secure PHP backend systems
+- Authentication, validation, and API security
 
 ### ⚡ IoT & Hardware Systems
 - Arduino-based smart prototypes
-- Sensor data collection systems
+- Sensor-based data systems
 - Embedded + software integration
 
 ---
@@ -82,11 +82,14 @@ Git • Docker • VirtualBox • Arduino • CI/CD Pipelines
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyad256&show_icons=true&theme=dark&hide_border=true)
+### 🔥 Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyad256&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad256&layout=compact&theme=dark&hide_border=true)
+### 💻 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad256&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Zyad256&theme=dark&hide_border=true)
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Zyad256&theme=tokyonight&hide_border=true)
 
 </div>
 
