@@ -78,7 +78,24 @@ Git • Docker • VirtualBox • Arduino • CI/CD Pipelines
 
 ---
 
-## 📊 GitHub Analytics <div align="center"> ### 🔥 Overview ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyad256&show_icons=true&theme=tokyonight&hide_border=true) ### 💻 Top Languages ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad256&layout=compact&theme=tokyonight&hide_border=true) ### 🔥 GitHub Streak ![GitHub Streak](https://streak-stats.demolab.com?user=Zyad256&theme=tokyonight&hide_border=true) </div>
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 🔥 Overview
+<img src="https://github-readme-stats.vercel.app/api?username=Zyad256&show_icons=true&theme=tokyonight&hide_border=true" />
+
+---
+
+### 💻 Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad256&layout=compact&theme=tokyonight&hide_border=true" />
+
+---
+
+### 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=Zyad256&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
