@@ -97,10 +97,11 @@ Git • Docker • VirtualBox • Arduino • CI/CD Pipelines
 
 ## 🎯 Current Focus
 
-- ☁️ Cloud Security (AWS / Azure)
-- 🤖 Deep Learning & AI Systems
-- 🌐 Advanced Networking Protocols
-- 📡 IoT Security & Monitoring
+- 🔐 Cybersecurity & Ethical Hacking (Web & Network Security)
+- 🛡️ Penetration Testing & Vulnerability Research
+- 🤖 Deep Learning & AI Experiments
+- 🌐 Advanced Networking & Protocol Analysis
+- 📡 IoT Security & Embedded Systems
 
 ---
 
