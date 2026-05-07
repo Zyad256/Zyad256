@@ -15,7 +15,7 @@
 
 ## 👋 Welcome to My Dev Space!
 
-I'm a **Cairo-based cybersecurity enthusiast** and **full-stack developer** passionate about ethical hacking, vulnerability research, and building secure applications. By day, I'm diving deep into penetration testing labs and crafting robust software solutions. By night, I'm jamming on harmonica, exploring fantasy worlds, or pushing my limits through parkour.
+I'm a **Cairo-based cybersecurity enthusiast** and **full-stack developer** passionate about ethical hacking, vulnerability research, and building secure applications. By day, I'm diving deep into cutting-edge security protocols; by night, I'm crafting elegant solutions and exploring the intersections of code and cryptography.
 
 **Current Focus:** 🔒 Cloud Security | 🤖 Deep Learning | 🌐 Networking Protocols on Kali Linux
 
@@ -117,11 +117,20 @@ When I'm not hacking or coding, you'll find me:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyad256&show_icons=true&theme=dark&include_all_commits=true)
+### 🔥 Activity Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zyad256&show_icons=true&theme=dark&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad256&layout=compact&theme=dark)
+### 💻 Top Languages (Most Used)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad256&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=10">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zyad256&layout=compact&theme=light&langs_count=10">
+</picture>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zyad256&theme=dark)
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zyad256&theme=dark&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
+
+### 📊 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zyad256&theme=github-dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
